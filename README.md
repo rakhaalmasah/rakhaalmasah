@@ -11,11 +11,6 @@
 💡 I enjoy leveraging technology to create impactful solutions, supported by experience in building mobile applications and deploying machine learning models for real-world applications.  
 🌟 Passionate about contributing to innovative projects that make a difference.  
 
-### Currently:  
-- 🔨 Working on **integrating Face Detection and Face Recognition** features into my attendance app project using **PyTorch**.  
-- 📚 Studying advanced machine learning techniques through **Bangkit Academy** and Coursera.  
-- 🚀 Open to collaborations on **Mobile Development** and **AI/ML projects**.  
-
 ---
 
 ## 📫 Connect with Me
@@ -48,10 +43,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Metrics -->
-  <img src="https://github.com/muhrakhaal/metrics/blob/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
 <p align="center">
   <!-- Alternative GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=muhrakhaal&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
