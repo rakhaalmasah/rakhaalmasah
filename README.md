@@ -40,16 +40,4 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhrakhaal&show_icons=true&count_private=true&theme=radical&cache_bypass=1" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrakhaal&layout=compact&theme=radical&cache_bypass=1" alt="Top Languages">
-</p>
-
----
-
 ### 🌟 "Let's innovate and make a meaningful impact together!"
