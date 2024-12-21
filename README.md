@@ -40,4 +40,4 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
 </p>
 
-### 🌟 "Let's innovate and make a meaningful impact together!"
+<h1 align="center">🌟 "Let's innovate and make a meaningful impact together!</h1>
