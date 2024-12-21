@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
   <b>I'm Muhammad Rakha Almasah</b><br>
-  Undergraduate Informatics Engineering Student | Mobile Developer | Machine Learning Enthusiast
+  Undergraduate Informatics Engineering Student | Mobile Developer | Machine Learning
 </p>
 
 ---
@@ -43,18 +43,6 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow">
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
-</p>
-
-### Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-</p>
-
-### Database  
-<p align="center">
-  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite">
-  <img src="https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firestore">
 </p>
 
 ---
