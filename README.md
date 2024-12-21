@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
   <b>I'm Muhammad Rakha Almasah</b><br>
-  Undergraduate Informatics Engineering Student | Mobile Developer | Machine Learning
+  Undergraduate Informatics Engineering Student | Mobile Developer | Machine Learning Enthusiast
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 🎓 I am a fifth-semester Informatics Engineering student specializing in **Mobile Development** and **Machine Learning**.  
 💡 I enjoy leveraging technology to create impactful solutions, supported by experience in building mobile applications and deploying machine learning models for real-world applications.  
-🌟 Passionate about contributing to innovative projects that make a difference.  
+🌟 Passionate about contributing to innovative projects that make a difference and collaborating with tech enthusiasts around the globe.
 
 ---
 
@@ -44,7 +44,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Alternative GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=muhrakhaal&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
