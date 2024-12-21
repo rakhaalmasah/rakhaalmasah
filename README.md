@@ -44,10 +44,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhrakhaal&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhrakhaal&show_icons=true&count_private=true&theme=radical&cache_bypass=1" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrakhaal&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhrakhaal&layout=compact&theme=radical&cache_bypass=1" alt="Top Languages">
 </p>
 
 ---
