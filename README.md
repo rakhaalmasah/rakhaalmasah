@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 6th-semester Informatics Engineering student with a strong focus on Machine Learning and Data Science. I have completed my undergraduate thesis through the journal publication track, with my research on stock price prediction using Deep Neural Networks published in JURIKOM (SINTA 3).
+I am a 7th-semester Informatics Engineering student with a strong focus on Machine Learning and Data Science. I have completed my undergraduate thesis through the journal publication track, with my research on stock price prediction using Deep Neural Networks published in JURIKOM (SINTA 3).
 
 I was selected as a participant in Bangkit Academy 2024 (organized by Google, GoTo, and Traveloka) and received the IDCamp 2024 scholarship from Indosat Ooredoo Hutchison. My project experience includes StockPred, an AI-based stock prediction system, an Adaptive Book Recommendation System, and NASDAQ & S&P 500 Index Forecasting using ensemble machine learning. These projects involved large-scale data processing, AI model development, and cloud-based deployment.
 
