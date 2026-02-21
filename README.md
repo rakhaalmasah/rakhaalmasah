@@ -1,9 +1,13 @@
 # 💫 About Me:
-I am a 7th-semester Informatics Engineering student with a strong focus on Machine Learning and Data Science. I have completed my undergraduate thesis through the journal publication track, with my research on stock price prediction using Deep Neural Networks published in JURIKOM (SINTA 3).
+I’m a fresh graduate in Informatics (all credits completed, awaiting graduation) with hands-on experience in Flutter mobile development and AI/ML (including LLM-based features).
 
-I was selected as a participant in Bangkit Academy 2024 (organized by Google, GoTo, and Traveloka) and received the IDCamp 2024 scholarship from Indosat Ooredoo Hutchison. My project experience includes StockPred, an AI-based stock prediction system, an Adaptive Book Recommendation System, and NASDAQ & S&P 500 Index Forecasting using ensemble machine learning. These projects involved large-scale data processing, AI model development, and cloud-based deployment.
+I joined two national Ministry programs: Bangkit Academy (MSIB) — Machine Learning Cohort, where I graduated as a Full Graduate (avg score 92.90) and served as a Tribe Leader, and Magang Berdampak, where I worked as a Mobile App Developer Intern and achieved an internship performance score of 95–96 (avg 95.4). Across these experiences, I focused on improving product quality through end-to-end QA, stabilizing user flows, supporting structured feature releases, and collaborating with cross-functional teams.
 
-I also interned as a Mobile Developer, where I developed an employee attendance app using Flutter and Firebase. To strengthen my technical skills, I have completed over 15 national and international certifications from Coursera, DeepLearning.AI, and Dicoding, covering topics such as Deep Learning, TensorFlow, MLOps, Python, and Mobile App Development. I am open to internship, collaboration, and job opportunities in the fields of AI, Machine Learning, and Data-Driven Technologies.
+I also built and shipped features involving AI (LLM) Course Builder capabilities and app monetization support. Previously, I completed a Mobile Developer internship where I developed an employee attendance app using Flutter and Firebase with geolocation and photo verification to improve attendance accuracy.
+
+Academically, my undergraduate thesis was published as a first-author paper in JURIKOM (SINTA 3-accredited journal, 2025) titled “Implementasi Deep Neural Network untuk Prediksi Harga Saham PT Bank Central Asia Tbk.” I also hold selected certifications from Coursera, NVIDIA, and Dicoding in Deep Learning, TensorFlow, MLOps, and Flutter.
+
+I’m currently open to opportunities as a Mobile Developer (Flutter) or Junior AI/ML Engineer, and I enjoy working in fast-paced, target-driven teams to deliver reliable, user-ready products.
 
 
 ## 🌐 Socials:
