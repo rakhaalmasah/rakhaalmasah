@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a fresh graduate in Informatics (all credits completed, awaiting graduation) with hands-on experience in Flutter mobile development and AI/ML (including LLM-based features).
+I’m a fresh graduate in Informatics with hands-on experience in Flutter mobile development and AI/ML (including LLM-based features).
 
 I joined two national Ministry programs: Bangkit Academy (MSIB) — Machine Learning Cohort, where I graduated as a Full Graduate (avg score 92.90) and served as a Tribe Leader, and Magang Berdampak, where I worked as a Mobile App Developer Intern and achieved an internship performance score of 95–96 (avg 95.4). Across these experiences, I focused on improving product quality through end-to-end QA, stabilizing user flows, supporting structured feature releases, and collaborating with cross-functional teams.
 
