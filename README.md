@@ -1,13 +1,5 @@
 # 💫 About Me:
-I’m a fresh graduate in Informatics with hands-on experience in Flutter mobile development and AI/ML (including LLM-based features).
-
-I joined two national Ministry programs: Bangkit Academy (MSIB) — Machine Learning Cohort, where I graduated as a Full Graduate (avg score 92.90) and served as a Tribe Leader, and Magang Berdampak, where I worked as a Mobile App Developer Intern and achieved an internship performance score of 95–96 (avg 95.4). Across these experiences, I focused on improving product quality through end-to-end QA, stabilizing user flows, supporting structured feature releases, and collaborating with cross-functional teams.
-
-I also built and shipped features involving AI (LLM) Course Builder capabilities and app monetization support. Previously, I completed a Mobile Developer internship where I developed an employee attendance app using Flutter and Firebase with geolocation and photo verification to improve attendance accuracy.
-
-Academically, my undergraduate thesis was published as a first-author paper in JURIKOM (SINTA 3-accredited journal, 2025) titled “Implementasi Deep Neural Network untuk Prediksi Harga Saham PT Bank Central Asia Tbk.” I also hold selected certifications from Coursera, NVIDIA, and Dicoding in Deep Learning, TensorFlow, MLOps, and Flutter.
-
-I’m currently open to opportunities as a Mobile Developer (Flutter) or Junior AI/ML Engineer, and I enjoy working in fast-paced, target-driven teams to deliver reliable, user-ready products.
+Fresh Informatics graduate with hands-on experience in Flutter mobile development, AI/ML integration, and application testing through national programs such as Magang Berdampak, Bangkit Academy, and IDCamp. Experienced in developing Flutter-based mobile features, integrating REST APIs, Firebase, Laravel, FastAPI, Midtrans payment flows, and AI-powered features including text generation, image generation, text-to-speech, auto-subtitles, and noise reduction. Strong foundation in machine learning, deep learning, TensorFlow, Python, and model deployment, supported by 905 hours of structured Bangkit learning and multiple Coursera certifications. Also experienced in end-to-end testing, bug reproduction, payment and invoice validation, feature validation, and release readiness testing. Adaptable, detail-oriented, and comfortable working with cross-functional teams to deliver stable, user-focused, and production-ready applications.
 
 
 ## 🌐 Socials:
